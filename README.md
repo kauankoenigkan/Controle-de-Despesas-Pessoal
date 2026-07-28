@@ -77,5 +77,6 @@ python app.py
 python -m PyInstaller --noconfirm --onedir --windowed --add-data "database.py;." --add-data "exportar.py;." --collect-data flet app.py
 ```
 
-👨‍💻 Autor
+## 👨‍💻 Autor
+
 Desenvolvido por Kauan Koenigkan.
