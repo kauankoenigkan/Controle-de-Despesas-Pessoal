@@ -1,6 +1,12 @@
 # App de controle de despesas pessoal
 
-
+<p align="left">
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Framework-Flet-008080?style=for-the-badge&logo=flutter&logoColor=white" alt="Flet">
+  <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/Build-PyInstaller-2C3E50?style=for-the-badge&logo=python&logoColor=white" alt="PyInstaller">
+  <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 
 ## 🚀 Tecnologias e Ferramentas
 
