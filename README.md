@@ -71,7 +71,7 @@ python app.py
 
  💻 Versão Executável para Windows (.exe)
 
-* ** Para gerar a pasta compactada com o executável para Windows, execute o comando abaixo no terminal do projeto: **
+* Para gerar a pasta compactada com o executável para Windows, execute o comando abaixo no terminal do projeto:
 
 ```text
 python -m PyInstaller --noconfirm --onedir --windowed --add-data "database.py;." --add-data "exportar.py;." --collect-data flet app.py
